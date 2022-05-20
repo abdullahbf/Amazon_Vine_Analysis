@@ -16,7 +16,7 @@ Vine members
 
 Non-Vine reviews
 
-<img width="413" alt="Screen Shot 2022-05-20 at 5 53 38 PM" src="https://user-images.githubusercontent.com/92544151/169618956-ab85d45f-41af-4008-8cb3-b7d98fb04dfa.png">
+<img width="371" alt="Screen Shot 2022-05-20 at 6 31 52 PM" src="https://user-images.githubusercontent.com/92544151/169620662-5c1ee055-51eb-4f25-9db6-3b2d0fc18cc9.png">
 
 Only 334 reviews were by Vine members while 61614 were non-Vine reviews. Out of the Vine reviews, 41.62% were five star reviews. On the other hand, 53.02% of non-Vine reviews were five star. 
 
