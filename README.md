@@ -12,7 +12,7 @@ The dataset was filtered to only have rows with greater or equals to 20 votes. T
 
 Vine members
 
-![Screen Shot 2022-05-20 at 5 53 34 PM](https://user-images.githubusercontent.com/92544151/169620555-fb1ac1e4-0c6f-4eb8-baa3-b51c99184104.jpeg)
+<img width="373" alt="Screen Shot 2022-05-20 at 6 31 19 PM" src="https://user-images.githubusercontent.com/92544151/169620615-58f8e446-0397-4ac1-a848-acd634e5451e.png">
 
 Non-Vine reviews
 
