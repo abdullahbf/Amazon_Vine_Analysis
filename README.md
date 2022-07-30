@@ -4,7 +4,7 @@ Dataset: https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Sport
 
 ## Purpose/Objective: 
 
-The objective was to perform ETL on an AWS dataset using Apache Spark. PySpark was used to extract and transform the dataset. postgreSQL and AWS RDS were connected and the transformed data was exported to pgAdmin. A table (vine_table) was then exported from postgreSQL as a csv file for further analysis. This analysis (Vine_Review_Analysis.ipynb) was then used to determine whether paid reviews (Vine members) had a significant impact on the percentage of five star product reviews. 
+The objective was to perform ETL on an Amazon dataset using Apache Spark. PySpark was used to extract and transform the dataset. postgreSQL and AWS RDS were connected and the transformed data was exported to pgAdmin. A table (vine_table) was then exported from postgreSQL as a csv file for further analysis. This analysis (Vine_Review_Analysis.ipynb) was then used to determine whether paid reviews (Vine members) had a significant impact on the percentage of five star product reviews. 
 
 ## Results: 
 
